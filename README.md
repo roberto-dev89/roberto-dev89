@@ -18,8 +18,6 @@
 
 - 💻 Actualmente estoy aprendiendo más herramientas de desarrollo web centrado en el Front end
 
-- 📫 Mi contacto: **montielmroberto089@gmail.com**
-
 - ⚡ Me apasiona la Tecnología, los Videojuegos, el Desarrollo y aprender nuevas estrategias y habilidades que me permitan resolver problemas de una forma más creativa y eficiente
 
 - 🏆 ¡He ganado el 3er lugar en la Huawei ICT Competition - Computing track 2023 - 2024 en la final Global realizada en Shenzhen, China!
@@ -73,4 +71,6 @@
 
 <br>
 
-[roberto-dev089](https://github.com/roberto-dev089)
+[roberto-dev089](https://github.com/roberto-dev089) 
+<br>
+**montielmroberto089@gmail.com**
