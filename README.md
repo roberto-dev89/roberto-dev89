@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://instagram.fmex4-1.fna.fbcdn.net/v/t51.2885-19/446226384_293700280473819_1992031355951116296_n.jpg?_nc_ht=instagram.fmex4-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHW6bviRr0WcjU9pZj30f1klWx62hEvQ9XP2l_XjkUQAAFLW053Eon1rhf87amwN_k&_nc_ohc=WdhxzXvjF24Q7kNvwHNTyMW&_nc_gid=qjWuV_Mj4xiNEBxFlfnOTA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfIYD3-wZVFBgXDK0GT6picpZeexTMpAPNjEaIPHC7S8-A&oe=682805BE&_nc_sid=7a9f4b" />
+   <img align="center" width="200" border-radius="9999px" src="https://instagram.fmex4-1.fna.fbcdn.net/v/t51.2885-19/446226384_293700280473819_1992031355951116296_n.jpg?_nc_ht=instagram.fmex4-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHW6bviRr0WcjU9pZj30f1klWx62hEvQ9XP2l_XjkUQAAFLW053Eon1rhf87amwN_k&_nc_ohc=WdhxzXvjF24Q7kNvwHNTyMW&_nc_gid=qjWuV_Mj4xiNEBxFlfnOTA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfIYD3-wZVFBgXDK0GT6picpZeexTMpAPNjEaIPHC7S8-A&oe=682805BE&_nc_sid=7a9f4b" />
    <h2 align="center">¡Hey 👋, Soy Roberto Montiel</h1>
   <h3 align="center">Estudiante egresado de la Ingeniería en Tecnologías de la Información</h3>
 </p>
